@@ -231,7 +231,7 @@ Through academic coursework, hands-on AI projects, and practical GPU computing e
   <table width="100%" style="border: none; background: transparent;">
     <tr style="border: none;">
       <td width="50%" align="center" style="border: none;">
-        <a href="https://github.com/sufiilshaikh789-boop">
+        <a href="https://github.com/sufiiishaikh789-boop">
           <img src="https://github-readme-stats.vercel.app/api?username=sufiiishaikh789-boop&show_icons=true&theme=react&bg_color=0D1117&hide_border=true&title_color=00FFCC&text_color=C9D1D9&icon_color=8A2BE2&ring_color=00FFCC" alt="GitHub Global Stats" />
         </a>
       </td>
