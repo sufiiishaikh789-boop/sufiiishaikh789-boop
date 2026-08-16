@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://github.com/sufiilshaikh789-boop">
+<a href="https://github.com/sufiiishaikh789-boop">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&height=50&lines=Architecting+Next-Gen+AI+Ecosystems;Optimizing+Deep+Neural+Networks;Deploying+Scalable+Full-Stack+Architectures;Mastering+NVIDIA+Accelerated+Computing;Bridging+Theoretical+ML+and+Production;Transforming+Data+into+Intelligent+Action" alt="Advanced Typing Effect" />
 </a>
 
@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="mailto:sufiiishaikh.789@gmail.com">
-    <img src="https://img.shields.io/badge/Encrypted_Comms-sufiilshaikh.789%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFCC&labelColor=161B22&border=00FFCC" alt="Email" />
+    <img src="https://img.shields.io/badge/Encrypted_Comms-sufiiishaikh.789%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFCC&labelColor=161B22&border=00FFCC" alt="Email" />
   </a>
   <a href="https://github.com/sufiiishaikh789-boop">
-    <img src="https://img.shields.io/badge/Neural_Network-sufiilshaikh789--boop-0D1117?style=for-the-badge&logo=github&logoColor=00FFCC&labelColor=161B22&border=00FFCC" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Neural_Network-sufiiishaikh789--boop-0D1117?style=for-the-badge&logo=github&logoColor=00FFCC&labelColor=161B22&border=00FFCC" alt="GitHub" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Deployment_Zone-Bengaluru,_India-0D1117?style=for-the-badge&logo=google-maps&logoColor=00FFCC&labelColor=161B22&border=00FFCC" alt="Location" />
@@ -265,9 +265,9 @@ Through academic coursework, hands-on AI projects, and practical GPU computing e
 <div align="center">
   <h3 align="center" style="color: #00FFCC;">🐍 Continuous Integration Snake (Contribution Matrix)</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sufiilshaikh789-boop/sufiiishaikh789-boop/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sufiilshaikh789-boop/sufiiishaikh789-boop/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Matrix Animation" src="https://raw.githubusercontent.com/sufiilshaikh789-boop/sufiiishaikh789-boop/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sufiiishaikh789-boop/sufiiishaikh789-boop/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sufiiishaikh789-boop/sufiiishaikh789-boop/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Matrix Animation" src="https://raw.githubusercontent.com/sufiiishaikh789-boop/sufiiishaikh789-boop/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
