@@ -17,9 +17,9 @@
   <a href="https://github.com/sufiiishaikh789-boop">
     <img src="https://img.shields.io/badge/Neural_Network-sufiiishaikh789--boop-0D1117?style=for-the-badge&logo=github&logoColor=00FFCC&labelColor=161B22&border=00FFCC" alt="GitHub" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Deployment_Zone-Bengaluru,_India-0D1117?style=for-the-badge&logo=google-maps&logoColor=00FFCC&labelColor=161B22&border=00FFCC" alt="Location" />
-  </a>
+ <a href="http://www.linkedin.com/in/sufiyan-sameer-shaikh-1bbb8434b">
+<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+</a>
 </p>
 
 <br/>
