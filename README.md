@@ -22,8 +22,12 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=sufiiishaikh789-boop&label=PROFILE+ACCESS+LOGS&color=00FFCC&style=for-the-badge&base=1000" alt="Profile Views" />
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=sufiiishaikh789-boop&label=PROFILE+VIEWS&color=00FFCC&style=for-the-badge" alt="Profile Views" />
+
+<br/>
+<br/>
 <br/>
 <br/>
 
